@@ -1,2 +1,4 @@
 # hello-world
-My first respiratory on GitHub
+I'll starting my journey with GitHub, enjoy guys.
+
+I love ⚽ 🍺 🐶 ⛰️
